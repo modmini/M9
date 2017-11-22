@@ -6,17 +6,17 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re
 
 cl = TOBY.LINE()
-cl.login(token="
+cl.login(token="Enak4IwZnUcyUauWnyb9.D1fZYqppKPHl5evwqQEkkq.oKgEalfKL24Vxx+jNniTDtE09sj6fxvcXXGgANnU5sY=")
 cl.loginResult()
 
 ki = TOBY.LINE()
-ki.login(token="
+ki.login(token="EnwCN4LYOdl6lKzUZD5b.JN4I5hgP07AlEziKBMV5QW.61V+MGVFlwcwq7njNuunMB+F+c3prPlUfIsNz/NGISA=")
 	 
 kk = TOBY.LINE()
-kk.login(token="	 
+kk.login(token="EnyPxElfqs3TfGrvRRe9.g2scXlNxqeQdyKnXNcpG6q.A767ShFCGXRX4IKWsuWcKJxGkkhucQD0SkHP/TghHjg=") 
 
 kc = TOBY.LINE()
-kc.login(token="
+kc.login(token="EnlUCcUx4YNPfP9iJ8id.gHsvhzoZJ3a1mE3WSAF2xq.wqnvMXPljN6InMkVnVgwi2lsuHcSjDX36yoVUqTeJtg=")
 
 ki = kk = kc = cl 
 
@@ -85,14 +85,14 @@ SUPPORT BY : CYBER BOT CRIME
 Hanya Admin Yang Bisa Menggunakan Bot
 """
 KAC=[cl,ki,kk,kc]
-mid = cl.getProfile().mid ["
-Amid = ki.getProfile().mid["
-Bmid = kk.getProfile().mid["
-Cmid = kc.getProfile().mid[""
+mid = cl.getProfile().mid ["u775173c903cf92984be4455642a78a29"]
+Amid = ki.getProfile().mid["u8e7e22e471a9d3b68b7992246e6bf9ab"]
+Bmid = kk.getProfile().mid["u1b6482c4b9d7404a836243719c23e0e9"]
+Cmid = kc.getProfile().mid["u1a14951d93b38f703531edf0b1a7f65d"]
 
 Bots=[mid,Amid,Bmid,Cmid]
-admin=["ua7fb5762d5066629323d113e1266e8ca","ucc8d5eb41ba0e602b00f3711d2098855"]
-creator=["ua7fb5762d5066629323d113e1266e8ca"]
+admin=["u775173c903cf92984be4455642a78a29","u775173c903cf92984be4455642a78a29"]
+creator=["u775173c903cf92984be4455642a78a29"]
 wait = {
     'contact':False,
     'autoJoin':True,
